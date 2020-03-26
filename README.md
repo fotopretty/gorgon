@@ -1,2 +1,2 @@
-# gorgon.github.io
+# gorgon
 javascript qrcode
